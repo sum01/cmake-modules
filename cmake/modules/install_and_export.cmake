@@ -1,3 +1,7 @@
+# install_and_export - version 1.0.0
+# Author: sum01 <sum01@protonmail.com>
+# Git: https://github.com/sum01/cmake-modules
+#
 # This module can be used to easily install and export any Cmake executable/library created by add_executable() or add_library()
 #
 # ~~ Usage ~~
